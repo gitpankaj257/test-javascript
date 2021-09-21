@@ -1,0 +1,45 @@
+{
+  "_from": "test-javascript-node",
+  "_id": "test-javascript-node@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-S+T44ajBoCsfAQ9i+6EWSMLauKmjFLDpfNGn79oG4LrS6hFCbva7dxCpsB0oeXzS++AWoiIKjVfmpXGDbp6OKg==",
+  "_location": "/test-javascript-node",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "test-javascript-node",
+    "name": "test-javascript-node",
+    "escapedName": "test-javascript-node",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/test-javascript-node/-/test-javascript-node-1.0.0.tgz",
+  "_shasum": "6a57c506bb174c6e1dd8a1e33542c192ed0bb6f1",
+  "_spec": "test-javascript-node",
+  "_where": "/var/www/html/test-javascript-node",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gitpankaj257/test-javascript/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/gitpankaj257/test-javascript#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "test-javascript-node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitpankaj257/test-javascript.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
